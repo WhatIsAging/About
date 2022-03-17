@@ -1,6 +1,8 @@
 # What is aging
 
-Let's start by defining it.
+Let's start by defining it. 
+
+Warning. The following information may be disturbing for some readers. Please exercise caution if you choose to read further.
 
 ## Definitions
 
@@ -10,15 +12,11 @@ Let's start by defining it.
 
 ### Other definitions from the scientific literature
 
-Aging is characterized by a progressive loss of physiological integrity, leading to impaired function and increased vulnerability to death. This deterioration is the primary risk factor for major human pathologies, including cancer, diabetes, cardiovascular disorders, and neurodegenerative diseases. [1]
-
-Aging (hereafter biological aging) can be defined as a complex interrelated network of progressive functionally-deleterious phenotypic deviations (with respect to the young adult phenotype) underlying biological aging, leading to a decline in individuals’adaptability, physiological and mental function, as well as resilience. [2]
-
-Aging is the accumulation of changes responsible for the sequential alterations that accompany advancing age and the associated progressive increases in the chance of disease and death. [3]
-
-Advanced age is associated with accumulation of damage and other deleterious changes and a consequential systemic decline of function. This decline affects all organs and systems in an organism, leading to their inadaptability to the environment, and therefore is thought to be inevitable for humans and most animal species. [4]
-
-Aging is accompanied by the functional decline of cells, tissues, and organs, as well as a striking increase in a wide range of diseases. [5]
+- Aging is characterized by a progressive loss of physiological integrity, leading to impaired function and increased vulnerability to death. This deterioration is the primary risk factor for major human pathologies, including cancer, diabetes, cardiovascular disorders, and neurodegenerative diseases. [1]
+- Aging (hereafter biological aging) can be defined as a complex interrelated network of progressive functionally-deleterious phenotypic deviations (with respect to the young adult phenotype) underlying biological aging, leading to a decline in individuals’adaptability, physiological and mental function, as well as resilience. [2]
+- Aging is the accumulation of changes responsible for the sequential alterations that accompany advancing age and the associated progressive increases in the chance of disease and death. [3]
+- Advanced age is associated with accumulation of damage and other deleterious changes and a consequential systemic decline of function. This decline affects all organs and systems in an organism, leading to their inadaptability to the environment, and therefore is thought to be inevitable for humans and most animal species. [4]
+- Aging is accompanied by the functional decline of cells, tissues, and organs, as well as a striking increase in a wide range of diseases. [5]
 
 ### References
 
