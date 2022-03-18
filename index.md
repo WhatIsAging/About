@@ -20,9 +20,6 @@ Source: [WHO](https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
 - Advanced age is associated with accumulation of damage and other deleterious changes and a consequential systemic decline of function. This decline affects all organs and systems in an organism, leading to their inadaptability to the environment, and therefore is thought to be inevitable for humans and most animal species. [4]
 - Aging is accompanied by the functional decline of cells, tissues, and organs, as well as a striking increase in a wide range of diseases. [5]
 
-
-See the [implications](implications.md).
-
 ### References
 
 1. 	López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. _Cell_. 2013;153: 1194–1217. doi:10.1016/j.cell.2013.05.039
