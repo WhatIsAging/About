@@ -19,11 +19,13 @@ Source: [WHO](https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
 - Aging is the accumulation of changes responsible for the sequential alterations that accompany advancing age and the associated progressive increases in the chance of disease and death. [3]
 - Advanced age is associated with accumulation of damage and other deleterious changes and a consequential systemic decline of function. This decline affects all organs and systems in an organism, leading to their inadaptability to the environment, and therefore is thought to be inevitable for humans and most animal species. [4]
 - Aging is accompanied by the functional decline of cells, tissues, and organs, as well as a striking increase in a wide range of diseases. [5]
+- We further define aging as the aggregate of all processes in an individual that reduce its wellbeing, that is, its health or survival or both. [6]
 
 ### References
 
 1. 	López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. _Cell_. 2013;153: 1194–1217. doi:10.1016/j.cell.2013.05.039
-2. 	Khaltourina D, Matveyev Y, Alekseev A, Cortese F, Ioviţă A. Aging Fits the Disease Criteria of the International Classification of Diseases. _Mech Ageing Dev._ 2020;189: 111230. doi:10.1016/j.mad.2020.111230
+2. 	Khaltourina D, Matveyev Y, Alekseev A, Cortese F, Ioviţă A. Aging Fits the Disease Criteria of the International Classification of Diseases. _Mech Ageing Dev._ 2020;189: 111230. doi:[](10.1016/j.mad.2020.111230)
 3. 	Harman D. The aging process: major risk factor for disease and death. _Proc Natl Acad Sci_ U S A. 1991;88: 5360–5363. doi:10.1073/pnas.88.12.5360
 4. 	Zhang B, Gladyshev VN. How can aging be reversed? Exploring rejuvenation from a damage‐based perspective. _Advanced Genetics_. 2020;1: e10025. doi:10.1002/ggn2.10025
 5. 	Mahmoudi S, Brunet A. Aging and reprogramming: a two-way street. _Curr Opin Cell Biol_. 2012;24: 744–756. doi:10.1016/j.ceb.2012.10.004
+6. 	Georg Fuellen , Ludger Jansen , Alan A Cohen , Walter Luyten , Manfred Gogol , Andreas Simm , Nadine Saul , Francesca Cirulli , Alessandra Berry , Peter Antal , Rüdiger Köhling , Brecht Wouters , Steffen Möller. Health and Aging: Unifying Concepts, Scores, Biomarkers and Pathways. _Aging and disease_. 2019, 10(4): 883-900 https://doi.org/10.14336/AD.2018.1030
